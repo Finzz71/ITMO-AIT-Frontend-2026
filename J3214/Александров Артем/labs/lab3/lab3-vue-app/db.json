@@ -70,6 +70,14 @@
       "category": "Доходы",
       "date": "2026-08-27T18:22:26.554Z",
       "id": "FueOQBNvg6E"
+    },
+    {
+      "userId": "1",
+      "title": "Долг",
+      "amount": -1677,
+      "category": "Доходы",
+      "date": "2026-09-11T16:20:42.014Z",
+      "id": "O5CWGyDice8"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
